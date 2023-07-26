@@ -1,0 +1,21 @@
+//get post patch put delete- request method
+// crud- create read update delete
+// create--request body - post 
+
+// read - get 
+
+route param- useParams
+req.param
+
+update - patch, put (overwrite)
+req.body
+delete--
+database intergration 
+
+//middlewears functions that run on the server btw req and res
+app.use 
+
+req----->middlewears <----response
+
+//pass json database, error handling,get req.body from frontend 
+custom middlewears--authentication
